@@ -6,3 +6,5 @@ aliens = [alien_0, alien_1, alien_2]
 
 for alien in aliens:
     print(alien)
+    print(alien)
+    print(alien)
